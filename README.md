@@ -6,5 +6,5 @@ L’objectif de ce guide est de combler ce manque en mettant l’accent sur cert
 
 ## Télécharger
 
-* Format Word (101 Ko)
-* Format PDF (690 Ko)
+* [Format Word (101 Ko)](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.docx)
+* [Format PDF (690 Ko)](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf)
